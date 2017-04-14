@@ -65,6 +65,15 @@ body {
     color: #ff9955;
     text-decoration: none;
 }
+.instruction {
+    font-family: "Raleway", sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    text-align: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
 .picture {
     padding: 0;
     height: 300px;
@@ -72,6 +81,19 @@ body {
     margin-right: auto;
 }
 .picture img {
+    height: 100%;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.resume {
+    padding: 0;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.resume img {
     height: 100%;
     width: auto;
     margin-left: auto;
